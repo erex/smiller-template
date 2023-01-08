@@ -6,6 +6,7 @@ permalink: /pubs/
 
 ### Publications
 
+* Rexstad, E., Buckland, S., Marshall, L., & Borchers, D. (2023). Pooling robustness in distance sampling: Avoiding bias when there is unmodelled heterogeneity. Ecology and Evolution, 13, e9684. https://doi.org/10.1002/ece3.9684 
 * Buckland, S.T., D.L. Miller and E. Rexstad. 2019. Distance sampling. Pages 97-112 in [Quantitative Analyses in Wildlife Science.](https://books.google.co.uk/books?hl=en&lr=lang_en&id=xN2gDwAAQBAJ&oi=fnd&pg=PA97&ots=E91akff9hY&sig=cmHWq7CkY9CCwlKAj1mV-ie4rhk&redir_esc=y#v=onepage&q&f=false) L. Brennan, B. Marcot and A. Tri (eds). Johns Hopkins University Press.
 * Miller, D.L., E. Rexstad, L. Thomas, L. Marshall, J. Laake. 2019. Distance Sampling in R. Journal of Statistical Software  89:1-28. https://doi.org/10.18637/jss.v089.i01
 * Schmidt, J.H., E.A. Rexstad, C.A. Roland, C.L. McIntyre, M.C. MacCluskie, and M.J. Flamme. 2017. Weather-driven change in primary productivity explains variation in the amplitude of two herbivore population cycles in a boreal system. Oecologia November, 1–12. https://doi.org/10.1007/s00442-017-4004-3.
